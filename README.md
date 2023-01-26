@@ -1,4 +1,4 @@
-❄️ **About me** ❄️<br>
+🌟 **About me** 🌟<br>
 - 🙋🏻 Data Analyst with a past as screenwriter, graphic designer and videoeditor
 - 🧑🏻‍💻 Transitioned into Data Science in 2021
 - 💁🏻 Creative, adaptable, and with a strong will to learn
