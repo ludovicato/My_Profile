@@ -26,6 +26,9 @@
 - Deepening my Statistics knowledge with this [udemy course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 - Studying Python on DataCamp
 
+<!--
+- 🎲 Progetto Dungeons & Dragons
+-->
 
 <br>🤝 **Connect with me** 🤝<br>
 - [My CV](https://drive.google.com/file/d/1lUwodpB-XylQhVi9ofaVd6_vViCYSUvn/view?usp=sharing)
