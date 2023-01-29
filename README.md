@@ -5,7 +5,7 @@
 
 
 <br>📊 **My Projects** 📊<br>
-- 🚧 Work in progress 
+- 🚧 Work in progress 🚧
 
 <!--
 - 🎮 Videogames
