@@ -5,7 +5,8 @@
 
 
 <br>📊 **My Projects** 📊<br>
-- 🚧 Work in progress 🚧
+- 💰 [PostreSQL + Excel + Looker Studio: Analysis on Invoices](https://github.com/ludovicato/Analysis_on_invoices.git)
+- 🚧 Work in progress - SQL + BigQuery + LookerStudio: 
 
 <!--
 - 🎮 Videogames
