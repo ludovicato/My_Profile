@@ -1,3 +1,6 @@
+![1674732180767](https://user-images.githubusercontent.com/119680854/219944604-59ad3784-50b9-463d-818e-72874f46ed87.jpg)
+
+
 🌟 **About me** 🌟<br>
 - 🙋🏻 Data Analyst with a past as screenwriter, graphic designer and videoeditor
 - 🧑🏻‍💻 Transitioned into Data Science in 2021
