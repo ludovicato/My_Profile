@@ -1,4 +1,4 @@
-![1674732180767](https://user-images.githubusercontent.com/119680854/219944604-59ad3784-50b9-463d-818e-72874f46ed87.jpg)
+![1](https://user-images.githubusercontent.com/119680854/219945011-28218294-6897-449b-9cdf-40feb21f8653.png)
 
 
 🌟 **About me** 🌟<br>
