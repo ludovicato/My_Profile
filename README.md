@@ -8,13 +8,14 @@
 
 
 <br>📊 **My Projects** 📊<br>
-- 💰 [PostreSQL + Excel + Looker Studio: Analysis on Invoices](https://github.com/ludovicato/Analysis_on_invoices.git)
-- 🚧 Work in progress - SQL + BigQuery + LookerStudio: 
+- 🛠 [PostreSQL + Excel + Looker Studio: Analysis on Invoices for Blacksmiths in Westeros](https://github.com/ludovicato/Analysis_on_invoices.git)
+- 📦 [SQL + BigQuery + LookerStudio: Analysis of a Postal Service](https://github.com/ludovicato/SQL_Analysis_Postal_Service.git)
+
 
 <!--
 - 🎮 Videogames
-- 📦 Delivery
-- 🧸 Catena di GiocattoliFarmaceie
+- 🚧 Work in progress
+- 🎲 Progetto Dungeons & Dragons
 -->
 
 
@@ -30,9 +31,6 @@
 - Deepening my Statistics knowledge with this [udemy course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 - Studying Python on DataCamp
 
-<!--
-- 🎲 Progetto Dungeons & Dragons
--->
 
 <br>🤝 **Connect with me** 🤝<br>
 - [My CV](https://drive.google.com/file/d/1lUwodpB-XylQhVi9ofaVd6_vViCYSUvn/view?usp=sharing)
