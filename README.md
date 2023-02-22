@@ -33,6 +33,6 @@
 
 
 <br>🤝 **Connect with me** 🤝<br>
-- [My CV](https://drive.google.com/file/d/1lUwodpB-XylQhVi9ofaVd6_vViCYSUvn/view?usp=sharing)
+- [My CV](https://github.com/ludovicato/ludovicato/blob/0d0fe2db3aa0a3131d6563cac5d5e5ba16108b90/CV.pdf)
 - [My Linkedin](https://www.linkedin.com/in/ludovicato/) <br>
 - [My DataCamp profile](https://www.datacamp.com/profile/ludovicato)
