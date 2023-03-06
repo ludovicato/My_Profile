@@ -15,7 +15,7 @@
 <!--
 - 🎮 Videogames
 - 🚧 Work in progress
-- 🎲 Progetto Dungeons & Dragons
+- 🎲 Progetto Dungeons & Dragons ?? with chatgpt
 -->
 
 
