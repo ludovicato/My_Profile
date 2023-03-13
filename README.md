@@ -27,7 +27,7 @@
 
 
 <br>📍 **Currently workin on** 📍<br>
-- Studying Tableau on 
+- Studying Tableau on DataCamp
 - Deepening my Statistics knowledge with this [udemy course](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 - Studying Python on DataCamp
 
