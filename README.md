@@ -33,7 +33,7 @@
 
 
 <br>🤝 **Connect with me** 🤝<br>
-- [My CV](https://github.com/ludovicato/ludovicato/blob/0d0fe2db3aa0a3131d6563cac5d5e5ba16108b90/CV.pdf)
+- [My CV](https://github.com/ludovicato/ludovicato/blob/6ccfd0c92709a88bcdde4c3db4a8db4ac2c6ed3c/CV.pdf)
 - [My Linkedin](https://www.linkedin.com/in/ludovicato/) <br>
 - [My DataCamp profile](https://www.datacamp.com/profile/ludovicato)
 - [My Tableau profile](https://public.tableau.com/app/profile/ludovica.tomaselli)
