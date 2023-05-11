@@ -8,7 +8,8 @@
 
 
 <br>📊 **My Projects** 📊<br>
-- 🛠 [PostreSQL + Excel + Looker Studio: Analysis on Invoices](https://github.com/ludovicato/Analysis_on_invoices.git)
+- ⚔️ [PostreSQL + Excel + Looker Studio: Analysis on Invoices](https://github.com/ludovicato/Analysis_on_invoices.git)
+- 🏛 [PostreSQL + Tableau + Excel: Analysis of Promotional Performance](https://github.com/ludovicato/Analysis_Affluence_to_Temples.git)
 - 📦 [SQL + BigQuery + LookerStudio: Analysis of a Postal Service](https://github.com/ludovicato/SQL_Analysis_Postal_Service.git)
 
 
